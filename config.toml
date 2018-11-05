@@ -1,0 +1,27 @@
+baseURL = "http://example.org/"
+paginate =  100
+defaultContentLanguage = "en"
+enableEmoji = true
+# Set the unicode character used for the "return" link in page footnotes.
+footnotereturnlinkcontents = "↩"
+languageCode = "en-us"
+metaDataFormat = "json"
+title = "ls"
+theme = "uilite"
+
+
+#googleAnalytics = "UA-7131036-4"
+
+pluralizeListTitles = false
+
+
+[imaging]
+# See https://github.com/disintegration/imaging
+# CatmullRom is a sharp bicubic filter which should fit the docs site well with its many screenshots.
+# Note that you can also set this per image processing.
+resampleFilter = "CatmullRom"
+
+# Default JPEG quality setting. Default is 75.
+quality = 98
+
+anchor = "smart"
