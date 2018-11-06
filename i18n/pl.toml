@@ -1,0 +1,5 @@
+[wordCount]
+other = " {{ .WordCount }} slow."
+
+[translations]
+other = "Artykul dostepny w innej wesji jezykowej"

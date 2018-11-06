@@ -1,0 +1,11 @@
+<div class='container sep-before'></div>
+{{ if .IsTranslated }}
+<strong>{{ i18n "translations" }}</strong>
+<ul>
+    {{ range .Translations }}
+    <li>
+        <a href="{{ .Permalink }}">{{ .Lang }}: <code>{{ .Title }}</code>{{ if .IsPage }} ({{ i18n "wordCount" . }}){{ end }}</a>
+    </li>
+    {{ end}}
+</ul>
+{{ end }}
