@@ -1,0 +1,16 @@
+{{ partial "header_ui.html" . }}
+{{ partial "sidebar_ui.html" . }}
+
+<div class="main-content">
+	{{ if .Site.Data.skills }}{{ partial "skills_ui.html" . }}{{ end }}
+	{{ if .Site.Data.experience }}{{ partial "experience_ui.html" . }}{{ end }}
+	{{ if .Site.Data.services }}{{ partial "services_ui.html" . }}{{ end }}
+	{{ partial "content_home" . }}
+
+</div>
+
+
+
+
+{{ partial "footer-scripts_ui.html" . }}
+	

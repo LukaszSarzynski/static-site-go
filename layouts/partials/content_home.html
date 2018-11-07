@@ -1,0 +1,28 @@
+<div class='container entry-content'>
+ 
+</div>
+
+
+<section class="blue">
+    <h2 class="heading">{{ .Title }}</h2>
+    {{ .Content }}
+  
+    <div class="row justify-content-md-center text-center">
+  
+      {{ range  $element := .Params.boxs }}
+
+  
+      <div class="col-12 col-lg-6 col-md-6 mb-3">
+        <div class="card p-4">
+          <i class='fab   {{$element.ICON}} fa-9x'></i>
+          <h5 class="mt-4"><a href='{{  $element.INSIDELINK }}'>{{ $element.TITLE }}</a></h5>
+          
+
+          
+          <p class="text-muted">{{ $element.DESCRIPTION }}</p>
+        </div>
+      </div>
+    
+      {{ end }}
+    </div>
+  </section>

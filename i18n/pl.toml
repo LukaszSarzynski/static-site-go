@@ -3,3 +3,6 @@ other = " {{ .WordCount }} slow."
 
 [translations]
 other = "Artykul dostepny w innej wesji jezykowej"
+
+[main_title]
+other = "Łukasz Sarzyński"

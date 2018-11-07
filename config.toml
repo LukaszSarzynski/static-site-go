@@ -1,25 +1,16 @@
-
-#defaultContentLanguage = "en"
-
-# Set the unicode character used for the "return" link in page footnotes.
-#footnotereturnlinkcontents = "↩"
+baseURL = "http://www.example.com"
+title = "Code Combat"
+# for smart copyright line, leave this blank and check [params.copyright]
+copyright = ""
 #languageCode = "en-us"
 #metaDataFormat = "json"
 
-theme = "minimo"#""#uilite"ga-hugo-theme
+theme = "minimo"
 
 
 #googleAnalytics = "UA-7131036-4"
 
 #pluralizeListTitles = false
-
-
-
-
-baseURL = "http://www.example.com"
-title = "Code Combat"
-# for smart copyright line, leave this blank and check [params.copyright]
-copyright = ""
 
 
 disqusShortname = ""
@@ -37,13 +28,14 @@ enableEmoji = true
 
 # Missing translations will default to this content language
 defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = "true"
 
 [params.info]
 description = "solutions"
 title404 = "Nothing's here!"
 
 [params.assets]
-favicon = "favicon.ico"
+#favicon = "favicon.ico"
 customCSS = ["css/custom.css"]
 customJS = ["js/custom.js"]
 gopher = "" # used in 404 template ( Generator: https://gopherize.me )
@@ -71,7 +63,7 @@ enable = true
 
 [params.widgets]
 homepage = ["recent_posts"]
-sidebar = ["about","search","sidebar_menu","taxonomy_cloud"]
+sidebar = ["about","search","recent_posts","taxonomy_cloud"]
 footer = ["social_menu"]
 
 [params.opengraph.facebook]
@@ -136,10 +128,16 @@ tag = "tags"
 page = "/:slug/"
 
 [[menu.main]]
-name = "Repo"
+name = "Author"
 weight = -10
-identifier = "repository"
-url = "https://github.com/MunifTanjim/minimo"
+identifier = "author"
+url = "/"
+
+[[languages.pl.menu.main]]
+name = "Autor"
+weight = -10
+identifier = "author"
+url = "/"
 
 [blackfriday]
 hrefTargetBlank = true

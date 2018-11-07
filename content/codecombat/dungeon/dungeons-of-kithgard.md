@@ -1,7 +1,6 @@
 ---
 title: "Dungeons of Kithgard"
 date: 2018-11-06T19:40:33+01:00
-draft: false
 translationKey: "dungeons-of-kithgard"
 slug: "dungeons-of-kithgard"
 tags:

@@ -3,3 +3,6 @@ other = "This article has {{ .WordCount }} words."
 
 [translations]
 other = "This site is in another language version"
+
+[main_title]
+other = "Lukasz Sarzynski"
