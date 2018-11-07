@@ -1,5 +1,7 @@
-<div class='container sep-before'></div>
+
 {{ if .IsTranslated }}
+<div class='container sep-before'></div>
+<div class='container'>
 <strong>{{ i18n "translations" }}</strong>
 <ul>
     {{ range .Translations }}
@@ -8,4 +10,5 @@
     </li>
     {{ end}}
 </ul>
+</div>
 {{ end }}
