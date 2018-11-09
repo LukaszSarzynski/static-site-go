@@ -23,3 +23,8 @@ _testmain.go
 *.test
 
 /public
+/node_scripts/data
+/node_scripts/node_modules
+/node_scripts/add.ts
+/node_scripts/add.js
+
