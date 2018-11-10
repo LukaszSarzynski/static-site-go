@@ -6,3 +6,19 @@ other = "This site is in another language version"
 
 [main_title]
 other = "Lukasz Sarzynski"
+
+[name]
+other ="Lukasz"
+
+[surname]
+other = "Sarzynski"
+
+[lsinfo]
+other = "developer"
+
+[Skills]
+other = "Skills"
+
+[Experience]
+other = "Experience"
+

@@ -1,7 +1,7 @@
 {{ $experience := .Site.Data.experience }}
 
 <section id="experience" class="green">
-  <h2 class="heading">{{ $experience.title }}</h2>
+  <h2 class="heading">{{ i18n "Experience" }}</h2>
   <div id="timeline">
     {{ range $index, $element := $experience.experience }}
     <div class="timeline-item clearfix">

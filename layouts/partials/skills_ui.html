@@ -1,7 +1,7 @@
 {{ $skills := .Site.Data.skills }}
 
 <section id="skills" class="aqua text-light">
-  <h2 class="heading">{{ $skills.title }}</h2>
+  <h2 class="heading">{{ i18n "Skills" }}</h2>
 
   {{ range $key, $value := $skills.skills }}
 

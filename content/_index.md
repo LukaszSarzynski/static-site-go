@@ -1,5 +1,5 @@
 ---
-title: More funn
+title: More fun
 translationKey: "start"
 slug: "start"
 boxs:

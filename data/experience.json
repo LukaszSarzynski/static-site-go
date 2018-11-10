@@ -3,9 +3,19 @@
 	"experience" : [
 
 		{
-			"timeperiod" : "Feb 2008 - Present",
-			"company" : "Software Developer",
-			"description" : " "
-		}
+			"timeperiod" : "Mar 2016 - Present",
+			"company" : "JZO - EssilorLuxottica Group",
+			"description" : "['Bash / Linux', 'TypeScirpt / Google Apps Script', 'C# / backend', 'SQL'] "
+		},
+		{
+			"timeperiod" : "Apr 2011 – Feb 2016",
+			"company" : "Jelcar - Fiat dealer",
+			"description" : "['SQL', 'Bash / Linux', 'PHP / Symfony1.4' ] "
+		},
+		{
+			"timeperiod" : "Feb 2008 – Mar 2011",
+			"company" : "Few smaller companies",
+			"description" : "[ 'PHP / Symfony1.0/-/1.4'] "
+		}		
 	]
 }

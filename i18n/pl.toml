@@ -6,3 +6,18 @@ other = "Artykul dostepny w innej wesji jezykowej"
 
 [main_title]
 other = "Łukasz Sarzyński"
+
+[name]
+other ="Łukasz"
+
+[surname]
+other = "Sarzyński"
+
+[lsinfo]
+other = "programista"
+
+[Skills]
+other = "Skills"
+
+[Experience]
+other = "Experience"
