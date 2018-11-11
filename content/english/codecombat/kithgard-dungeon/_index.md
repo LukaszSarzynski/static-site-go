@@ -1,7 +1,6 @@
 ---
-title: Loch Kithgarda
+title: Kithgard Dungeon
 translationKey: "dungeon"
-slug: "loch"
 menu: main
 weight: -200
 ---

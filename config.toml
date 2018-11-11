@@ -146,11 +146,13 @@ hrefTargetBlank = true
 # edit this block for your own language
 [languages.en]
 lang = "en"
+contentDir = "content/english"
 languageName = "English"
 weight = 1
 
 [languages.pl]
 lang = "pl"
+contentDir = "content/polish"
 languageName = "Polski"
 weight = 2
 
