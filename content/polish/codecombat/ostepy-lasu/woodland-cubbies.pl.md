@@ -1,5 +1,5 @@
 ---
-title: "Woodland Cubbies #Poziom f_4"
+title: "#Poziom f_4"
 date: 2018-11-15T21:46:43.427Z
 translationKey: "woodland-cubbies"
 slug: "woodland-cubbies-poziom-f_4"
