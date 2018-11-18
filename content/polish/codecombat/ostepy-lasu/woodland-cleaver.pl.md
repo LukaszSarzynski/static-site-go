@@ -1,5 +1,5 @@
 ---
-title: "Woodland Cleaver #Poziom f_15"
+title: "#Poziom f_15"
 date: 2018-11-18T19:30:15.545Z
 translationKey: "woodland-cleaver"
 slug: "woodland-cleaver-poziom-f_15"
