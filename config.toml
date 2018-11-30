@@ -31,7 +31,7 @@ defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = "true"
 
 [params.info]
-description = "solutions"
+description = "JavaScript Solutions"
 title404 = "Nothing's here!"
 
 [params.assets]
