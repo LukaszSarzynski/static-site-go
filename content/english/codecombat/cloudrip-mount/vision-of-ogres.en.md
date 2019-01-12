@@ -5,7 +5,10 @@ translationKey: "vision-of-ogres"
 slug: "vision-of-ogres"
 order: 94
 tags:
-  - HelloWord
+  - enemy.health
+  - enemy.id
+  - split
+  - slice
 ---
 
 > Ogres have the Illusion spell, but we know how it works.
