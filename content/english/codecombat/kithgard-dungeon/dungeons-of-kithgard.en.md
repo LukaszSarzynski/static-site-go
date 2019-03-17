@@ -1,18 +1,18 @@
 ---
-title: "Lochy Kithgardu"
-date: 2019-03-17T21:48:03.711Z
+title: "Dungeons of Kithgard"
+date: 2019-03-17T21:48:03.707Z
 translationKey: "dungeons-of-kithgard"
-slug: "lochy-kithgardu"
+slug: "dungeons-of-kithgard"
 order: 0
 tags:
   - HelloWord
 ---
 
-> Zdobądź klejnot nie dotykając nic innego. W tym poziomie nauczysz się podstawowych ruchów swojego bohatera.
+> Grab the gem and escape the dungeon—but don’t run into anything else. In this level, you’ll learn basic movements for your hero.
 
 https://codecombat.com/play/level/dungeons-of-kithgard
 
-Rozwiązanie
+Solution
 
 ```javascript
 // Move towards the gem.
@@ -25,7 +25,11 @@ hero.moveRight();
 
 ```
 
-Potrzebne przedmioty z |
+Points for |
+--- |
+time |
+
+Needed items with |
 --- |
 moveRight |
 
