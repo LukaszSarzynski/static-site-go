@@ -1,17 +1,17 @@
 ---
-title: Inne ciekawostki
+title: Polish version
 translationKey: "start"
 slug: "start"
 boxs:
   javascript:
     title: CodeCombat
-    description: "JavaScript i moje przykłady z innej bardzo ciekawej witryny"
+    description: "Polecam witrynę, świetna zabawa podczas nauki JavaScript"
     icon: fa-js-square
     insidelink: "./wszystkie/"
   typescript:
-    title: Zagadki programistyczne
-    description: "Wyzwanie Advent of Code i aktualne rozwiązania w TypeScript (strona na GitHub Pages) "
-    icon: fa-git-square
-    insidelink: "http://lukaszsarzynski.github.io/typescirpt-advent-of-code"    
+    title: Curriculum Vitae
+    description: "Jeśli szukasz frontend developera, możesz pobrać tego PDF i skontaktować się ze mną"
+    icon: fas fa-id-card-alt
+    insidelink: "/download/CV_Lukasz_Sarzynski_en.pdf"    
 ---
 

@@ -1,9 +1,9 @@
 {
 	"title" : "Skills",
 	"skills" : {
-		"SQL" : "90",
-		"Angular" : "60",
-		"C#" : "30",
-		"Linux" : "70"
+		"HTML" : "95",
+		"CSS" : "80",
+		"Angular7+" : "30",
+		"JavaScript / TypeScript" : "73"
 	}
 }

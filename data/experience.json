@@ -3,19 +3,24 @@
 	"experience" : [
 
 		{
-			"timeperiod" : "Mar 2016 - Present",
-			"company" : "JZO - EssilorLuxottica Group",
-			"description" : "['Bash / Linux', 'TypeScirpt / Google Apps Script', 'C# / backend', 'SQL'] "
+			"timeperiod" : "Nov 2019 - Inf",
+			"company" : "I am looking new job",
+			"description" : "['TypeScirpt/Angular7','TypeScirpt/Angular8'] "
+		},		
+		{
+			"timeperiod" : "Mar 2016 - Oct 2019",
+			"company" : "JZO (lens laboratory) - EssilorLuxottica Group",
+			"description" : "['Bash/Linux', 'TypeScirpt/GoogleAppsScript', 'C#/backend', 'SQL'] "
 		},
 		{
 			"timeperiod" : "Apr 2011 – Feb 2016",
 			"company" : "Jelcar - Fiat dealer",
-			"description" : "['SQL', 'Bash / Linux', 'PHP / Symfony1.4' ] "
+			"description" : "['SQL', 'PHP/Symfony1.4' ] "
 		},
 		{
 			"timeperiod" : "Feb 2008 – Mar 2011",
 			"company" : "Few smaller companies",
-			"description" : "[ 'PHP / Symfony1.0/-/1.4'] "
+			"description" : "[ 'PHP'] "
 		}		
 	]
 }
