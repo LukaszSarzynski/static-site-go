@@ -3,13 +3,13 @@
 	"experience" : [
 
 		{
-			"timeperiod" : "Nov 2019 - Inf",
+			"timeperiod" : "*Actual",
 			"company" : "I am looking new job",
 			"description" : "['TypeScirpt/Angular7','TypeScirpt/Angular8'] "
 		},		
 		{
 			"timeperiod" : "Mar 2016 - Oct 2019",
-			"company" : "JZO (lens laboratory) - EssilorLuxottica Group",
+			"company" : "JZO laboratory in Essilor",
 			"description" : "['Bash/Linux', 'TypeScirpt/GoogleAppsScript', 'C#/backend', 'SQL'] "
 		},
 		{
