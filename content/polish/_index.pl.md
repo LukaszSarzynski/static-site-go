@@ -14,6 +14,24 @@ slug: "start"
     <div class="row">
       <div class="col-12 col-lg-6 col-md-6 mb-3">
         <div class="card p-4">
+            <i class='fab  fas fa-skiing fa-9x text-center'></i>
+            <h5 class="mt-4  text-center">Ski cameras</h5>
+          <p class="text-muted">
+             Użyto:           
+            <a href="https://angular.io/features" target="_blank">Angular</a>,
+            <a href="https://angular.io/guide/http#http-interceptors" target="_blank">HttpClient HttpInterceptor</a>,
+            <a href="https://angular.io/guide/reactive-forms" target="_blank">Reactive forms</a>
+<a href="https://material.angular.io/" target="_blank">Angular Material UI</a>,
+<a href="https://getbootstrap.com/" target="_blank">Bootstrap 4</a>,
+<a href="https://sass-lang.com/" target="_blank">Sass / SCSS</a>.
+            <br><br>
+            źródła: <a href="https://github.com/LukaszSarzynski/Angular-SkiCams" target="_blank">on GitHub</a><br>
+            demo: <a href='/demo/Angular-SkiCams/' target="_blank">proszę zobaczyć</a><br>
+          </p>
+        </div>
+      </div>      
+      <div class="col-12 col-lg-6 col-md-6 mb-3">
+        <div class="card p-4">
             <i class='fab  fas fa-shopping-cart fa-9x text-center'></i>
             <h5 class="mt-4  text-center">Shop demo</h5>
           <p class="text-muted">
